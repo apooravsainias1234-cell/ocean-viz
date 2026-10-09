@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+xarray
+netCDF4
+pandas
+numpy
+python-multipart
+httpx
+python-dotenv
